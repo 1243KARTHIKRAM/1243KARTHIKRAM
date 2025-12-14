@@ -1,35 +1,70 @@
 # Hi 👋, I'm G Karthik Ram
+### Programming Languages
 
-🎓 Computer Science Engineering Student (CGPA: 9.08)
-💻 Software Engineer Aspirant | MERN Stack | AI/ML | Android Learner
-📍 PES College of Engineering, Mandya
+* C, C++, JavaScript, Python
+
+### Web & Full-Stack Development
+
+* HTML, CSS, JavaScript
+* React.js, Node.js, Express.js
+* REST APIs
+
+### Databases
+
+* MongoDB, MySQL
+
+### Android (Learning)
+
+* Activities & Intents
+* XML Layouts
+* RecyclerView
+* Android Studio
+
+### Tools
+
+* Git & GitHub
+* VS Code
 
 ---
 
-## 🎯 Career Objective
+## 🧠 Problem Solving & DSA
 
-Seeking a software development role to utilize my skills in **full-stack development, AI, and machine learning** to deliver innovative and socially impactful solutions.
+* Strong foundation in **Data Structures & Algorithms (C++)**
+* Solved **100+ problems on LeetCode**
+* **20th Rank** on GeeksforGeeks Institution Leaderboard
 
 ---
 
-## 🚀 Projects
+## 🏆 Achievements
 
-### 🏆 Medicine Recommendation System *(Winner Project)*
+* 🥇 Winner – Medicine Recommendation System (AI-based health solution)
+* 🥈 Runner-Up – National-Level Hackathon (Reverse Hiring Platform)
+* 🥇 1st Place – State-Level Data Analyst Arena (30+ teams)
 
-* Built an **AI-based disease prediction system** with **92% accuracy** using Support Vector Classifier (SVC).
-* Recommended **personalized medicines** based on predicted diseases.
-* Integrated **MongoDB** to store user data and dynamic disease–medicine records.
-* Deployed as a **responsive web application** enabling real-time symptom search and health advice.
+---
 
-### 🏠 FixBuddy – Home Service Booking Platform *(Runner-Up Project)*
+## 🎓 Education
 
-* Developed a **full-stack platform** using **React, Node.js, Express.js, and MongoDB**.
-* Integrated **Socket.IO** for real-time notifications and live service updates.
-* Implemented **secure authentication**, live location tracking, and a mobile-friendly UI for users, service providers, and admins.
+**PES College of Engineering, Mandya**
+Bachelor of Engineering – Computer Science (2022–2026)
+CGPA: **9.08**
 
-### 📊 Global Development Data Analysis *(Winner Project)*
+**Sri Chaitanya PU College, Ballari**
+PCMB – **90%** (2019–2021)
 
-* Cleaned and transformed global indicators such as **GDP, electricity access, and rural population**.
-* Performed statistical analysis and visualizations using **Matplotlib and Seaborn**.
-* Extracted data-driven insights to support **policy and development planning**.
+**Model Public High School, Ballari**
+SSLC – **82.04%** (2009–2019)
+
+---
+
+## 🔗 Connect With Me
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/g-karthik-ram-b92630260/](https://www.linkedin.com/in/g-karthik-ram-b92630260/)
+* 📧 Email: [gkarthikram9347@gmail.com](mailto:gkarthikram9347@gmail.com)
+* 🧠 Greeks for greeks: [https://www.geeksforgeeks.org/profile/gkarthik4rvn](https://www.geeksforgeeks.org/profile/gkarthik4rvn)
+
+---
+
+⭐ *I use GitHub to showcase my projects, track my learning, and continuously improve my problem-solving and development skills.*
+
 
