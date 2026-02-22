@@ -1,5 +1,4 @@
 # Hi 👋, I'm G Karthik Ram
-🌐 Portfolio: https://portfolio-6kpg.vercel.app/
 ### Programming Languages
 
 * C, C++, JavaScript, Python
@@ -63,6 +62,7 @@ SSLC – **82.04%** (2009–2019)
 * 💼 LinkedIn: [https://www.linkedin.com/in/g-karthik-ram-b92630260/](https://www.linkedin.com/in/g-karthik-ram-b92630260/)
 * 📧 Email: [gkarthikram9347@gmail.com](mailto:gkarthikram9347@gmail.com)
 * 🧠 Greeks for greeks: [https://www.geeksforgeeks.org/profile/gkarthik4rvn](https://www.geeksforgeeks.org/profile/gkarthik4rvn)
+* 🌐 Portfolio: https://portfolio-6kpg.vercel.app/
 
 ---
 
