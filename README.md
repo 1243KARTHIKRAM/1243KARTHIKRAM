@@ -1,4 +1,5 @@
 # Hi 👋, I'm G Karthik Ram
+🌐 Portfolio: https://portfolio-6kpg.vercel.app/
 ### Programming Languages
 
 * C, C++, JavaScript, Python
@@ -47,7 +48,7 @@
 
 **PES College of Engineering, Mandya**
 Bachelor of Engineering – Computer Science (2022–2026)
-CGPA: **9.08**
+CGPA: **9.1**
 
 **Sri Chaitanya PU College, Ballari**
 PCMB – **90%** (2019–2021)
