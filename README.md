@@ -1,7 +1,7 @@
 # Hi 👋, I'm G Karthik Ram
 ### Programming Languages
 
-* C, C++, JavaScript, Python
+* C, C++, Java, JavaScript, Python
 
 ### Web & Full-Stack Development
 
