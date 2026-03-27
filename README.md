@@ -1,4 +1,6 @@
 # Hi 👋, I'm G Karthik Ram
+# Intern @Radware
+
 ### Programming Languages
 
 * C, C++, Java, JavaScript, Python
